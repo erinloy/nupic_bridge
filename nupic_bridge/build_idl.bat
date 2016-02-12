@@ -1,0 +1,1 @@
+midl NupicBridge.idl 
