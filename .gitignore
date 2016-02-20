@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+*.pyc
+*.exe
+*.pdb
+*.manifest
+*.cache
+*.dll
+/nupic_bridge_test/obj/Debug/nupic_bridge_test.csproj.FileListAbsolute.txt
+*.sdf
+*.user

@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{ad320d04-0e96-4c11-bcf3-ed8eb090e75c}</ProjectGuid>
     <ProjectHome />
-    <StartupFile>NupicBridge.py</StartupFile>
+    <StartupFile>nupic_bridge.py</StartupFile>
     <SearchPath />
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
@@ -22,7 +22,8 @@
     <PtvsTargetsFile>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets</PtvsTargetsFile>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="NupicBridge.py" />
+    <Compile Include="NupicBridgeImpl.py" />
+    <Compile Include="nupic_bridge.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="build_idl.bat" />
