@@ -1,1 +1,1 @@
-NupicBridge.py -regserver 
+NupicBridgeImpl.py -regserver 
